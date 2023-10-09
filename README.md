@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 21 year old undergraduate student currently studying at the University of Sarajevo's Faculty of Electrical Engineering. I enjoy building desktop and mobile apps, as well as challenging myself with new projects. I enjoy expanding my programming knowledge through projects and experimenting with new tech and software. I have finished an internship at ProSafety <br><br>🔭 Continuously learning about new tech<br>🏀 Playing basketball in my free time<br>📚 Dedicated to enhancing programming skills through projects and academic coursework<br>🤝 Open to new opportunities<br>💬 Ask me about anything you would like to know
+I am a 21 year old undergraduate student currently studying at the University of Sarajevo's Faculty of Electrical Engineering. I enjoy building desktop and mobile apps, as well as challenging myself with new projects. I enjoy expanding my programming knowledge through projects and experimenting with new tech and software. I have finished an internship at ProSafety. <br><br>🔭 Continuously learning about new tech<br>🏀 Playing basketball in my free time<br>📚 Dedicated to enhancing programming skills through projects and academic coursework<br>🤝 Open to new opportunities<br>💬 Ask me about anything you would like to know
 
 
 ## 🌐 Socials:
